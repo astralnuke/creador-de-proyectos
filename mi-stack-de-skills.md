@@ -391,7 +391,7 @@ Commit: `docs(proyecto): agrega CLAUDE.md con el stack, los flujos y las reglas`
 
 ## 8. Mantenimiento
 
-- **Después de `npx skills update`:** volver a aplicar el paso 7.4, porque la actualización sobrescribe esos cambios.
+- **Después de `npx skills update`:** volver a aplicar el paso 7.4 de `docs/stack-de-skills.md` (requerimientos en invocación manual), porque la actualización sobrescribe esos cambios.
 - **En un clon nuevo del repo:**
   - `git config core.hooksPath .githooks` (activa el hook de atribución);
   - `npx impeccable install --providers=claude --scope=project` (sus hooks viven en `.claude/settings.local.json`, que no se versiona, y su binario tampoco).
