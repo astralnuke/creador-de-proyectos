@@ -117,8 +117,8 @@ Los archivos son la memoria entre sesiones: si algo se decidió, tiene que estar
 | `docs/specs/<feature>.md` | Spec de un feature: qué toca, qué no debe romper, criterios de aceptación y, al final, su plan | `/spec-driven-development` y el modo plan |
 | `docs/plan.md` | Plan general del proyecto: stack técnico, orden de los módulos y dependencias | El modo plan |
 | `docs/adr/NNNN-<titulo>.md` | Registros de decisiones, numerados | `/grill-with-docs` y las decisiones del plan |
-| `docs/stack-de-skills.md` | Esta guía | A mano |
-| `CLAUDE.md` (raíz) | Reglas del proyecto, skills y flujos | Sección 7 de esta guía |
+| `docs/stack-de-skills.md` | La guía del stack de skills (copia de `mi-stack-de-skills.md` del repo `creador-de-proyectos`) | A mano |
+| `CLAUDE.md` (raíz) | Reglas del proyecto, skills y flujos | La instalación del stack (sección 7 de `docs/stack-de-skills.md`) |
 | `GLOSSARY.md` (raíz) | Vocabulario del dominio: un término por concepto | `/grill-with-docs` |
 | `PRODUCT.md` (raíz) | Verdad del producto: audiencia, propósito, restricciones, voz | `/impeccable init` |
 | `DESIGN.md` (raíz) | Sistema visual: paleta, tipografía, estilo, tokens | `/impeccable` |
